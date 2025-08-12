@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Haavari — WordPress Artisan & Full-Stack Developer
+# 👋 Hey, I'm Havri — WordPress Artisan & Full-Stack Developer
 
 Since 2019, I’ve been meticulously crafting high-performance WordPress themes and plugins that balance robust backend logic with seamless user experiences. With a deep mastery of **PHP** and the **Laravel** framework, paired with a keen eye for frontend elegance through **React**, **Next.js**, and **Tailwind CSS**, I engineer scalable, maintainable, and cutting-edge web solutions.
 
